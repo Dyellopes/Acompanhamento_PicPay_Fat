@@ -1,1 +1,121 @@
 
+{
+  "invoice": {
+    "paid": false,
+    "total_amount": 219.09,
+    "credit_limit": 3430,
+    "minimum_payment": 30,
+    "due_date": "2026-05-05",
+    "close_date": "2026-04-28",
+    "card_holder_name": "DYELL LOPES",
+    "card_last_digits": "4242",
+    "bank_name": "PicPay",
+    "pix_key": "00020126660014br.gov.bcb.pix0120edyeltho03@gmail.com0220Fatura de 05-05-20265204000053039865406219.095802BR5922Edielton Da Cruz Lopes6009Sao Paulo62150511MarciaAlves6304067F",
+    "pix_key_type": "EMAIL",
+    "pix_receiver_name": "Edielton D.C Lopes",
+    "warning_days_threshold": 2,
+    "warning_message": "⏰ Sua fatura vence em breve! Pague agora para evitar juros e bloqueio do cartão.",
+    "overdue_message": "🚨 Fatura VENCIDA! Regularize imediatamente para desbloquear seu cartão.",
+    "cashback_available": 00.00,
+    "cashback_pending": 00.00,
+    "previous_month_total": 696.37,
+    "interest_rate_monthly": 7.5,
+    "spending_alert_pct": 80
+  },
+  "transactions": [
+    {
+      "id": 1,
+      "description": "iFood",
+      "category": "FOOD",
+      "amount": 00.00,
+      "date": "2026-04-08",
+      "installments": "1/1",
+      "status": "CONFIRMED",
+      "international": false
+    },
+    {
+      "id": 2,
+      "description": "Tático",
+      "category": "TRANSPORT",
+      "amount": 67.02,
+      "date": "2026-04-05",
+      "installments": "1/1",
+      "status": "CONFIRMED",
+      "international": false
+    },
+    {
+      "id": 3,
+      "description": "Shopee",
+      "category": "SHOPPING",
+      "amount": 66.80,
+      "date": "2026-04-01",
+      "installments": "1/1",
+      "status": "CONFIRMED",
+      "international": false
+    },
+    {
+      "id": 4,
+      "description": "Farmácia",
+      "category": "HEALTH",
+      "amount": 00.00,
+      "date": "2026-04-05",
+      "installments": "1/1",
+      "status": "CONFIRMED",
+      "international": false
+    },
+    {
+      "id": 5,
+      "description": "PlayStation Store",
+      "category": "ENTERTAINMENT",
+      "amount": 00.00,
+      "date": "2026-04-04",
+      "installments": "1/1",
+      "status": "CONFIRMED",
+      "international": false
+    },
+    {
+      "id": 6,
+      "description": "99 Pop",
+      "category": "TRANSPORT",
+      "amount": 00.00,
+      "date": "2026-04-03",
+      "installments": "1/1",
+      "status": "CONFIRMED",
+      "international": false
+    },
+    {
+      "id": 7,
+      "description": "Amazon.com",
+      "category": "SHOPPING",
+      "amount": 00.00,
+      "date": "2026-04-02",
+      "installments": "1/1",
+      "status": "CONFIRMED",
+      "international": true
+    }
+  ],
+  "notices": [
+    {
+      "id": 1,
+      "title": "Cashback especial",
+      "message": "Ganhe 5% de cashback em restaurantes durante abril!",
+      "type": "PROMO",
+      "active": false
+    },
+    {
+      "id": 2,
+      "title": "Novo limite disponível",
+      "message": "Seu limite pode ser aumentado. Acesse o app para solicitar.",
+      "type": "INFO",
+      "active": false
+    }
+  ],
+  "app_config": {
+    "refresh_interval_minutes": 10,
+    "enable_notifications": true,
+    "support_whatsapp": "5561999255417",
+    "maintenance_mode": false,
+    "maintenance_message": "",
+    "app_version": "1.0.0"
+  }
+}
