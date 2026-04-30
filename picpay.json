@@ -2,7 +2,7 @@
 {
   "invoice": {
     "paid": false,
-    "total_amount": 271.72,
+    "total_amount": 493.23,
     "credit_limit": 3430,
     "minimum_payment": 30,
     "due_date": "2026-05-05",
@@ -10,7 +10,7 @@
     "card_holder_name": "DYELL LOPES",
     "card_last_digits": "4242",
     "bank_name": "PicPay",
-    "pix_key": "00020126660014br.gov.bcb.pix0120edyeltho03@gmail.com0220fatura de 05/05/20265204000053039865406271.725802BR5922Edielton Da Cruz Lopes6009Sao Paulo62150511MarciaAlves6304766A",
+    "pix_key": "00020126660014br.gov.bcb.pix0120edyeltho03@gmail.com0220Fatura de 05-05-20265204000053039865406493.235802BR5922Edielton Da Cruz Lopes6009Sao Paulo62150511MarciaAlves63043B65",
     "pix_key_type": "EMAIL",
     "pix_receiver_name": "Edielton D.C Lopes",
     "warning_days_threshold": 2,
